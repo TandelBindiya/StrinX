@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">StrinX</string>
+    <string name="label_enter_length_of_string">Enter Length of String:</string>
+    <string name="label_generate_random_string">Generate Random String</string>
+    <string name="label_delete_all_strings">Delete All Strings</string>
+    <string name="label_value">Value: %1$s</string>
+    <string name="label_length">Length: %1$s</string>
+    <string name="label_created">Created: %1$s</string>
+    <string name="label_delete">Delete</string>
+    <string name="label_contentprovider_permission_needed">ContentProvider Permission Needed</string>
+    <string name="note_permission_required">This app needs ContentProvider permission to generate strings and delete strings</string>
+    <string name="label_request">Request</string>
+    <string name="label_cancel">Cancel</string>
+    <string name="label_request_content_provider_permission">Request Content Provider Permission</string>
+</resources>
